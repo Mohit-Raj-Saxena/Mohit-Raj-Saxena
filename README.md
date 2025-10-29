@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi there, I'm Mohit Raj Saxena!
 
-<!--
-**Mohit-Raj-Saxena/Mohit-Raj-Saxena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate web developer exploring open source, MERN stack, and backend technologies 🚀  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎖️ My Holopin Badges
+[![An image of @mohitrajsaxena's Holopin badges, which is a link to view their full Holopin profile][https://www.holopin.io/@mohitrajsaxena#badges]
+
+---
+
+### 💻 Tech Stack
+- ⚙️ JavaScript | Node.js | Express  
+- 🧩 React | MongoDB | Redis  
+- 🐳 Docker | Git | GitHub  
+
+---
+
+### 📫 Connect with me
+[GitHub](https://github.com/Mohit-Raj-Saxena)
+
+
